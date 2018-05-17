@@ -1,0 +1,17 @@
+{
+  "name": "myoldhearts",
+  "version": "0.0.1",
+  "description": "Rebuilding my old Lingo hearts game in JavaScript with AI.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cards",
+    "javascript",
+    "hearts",
+    "ai"
+  ],
+  "author": "David B. Kanter I",
+  "license": "ISC"
+}
